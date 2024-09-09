@@ -20,4 +20,4 @@ Uma aplicação web simples e intuitiva para buscar informações sobre atletas 
 
 1. **repositório:**
    ```bash
-   CLick aqui para Acessar o Site [<a](https://jogadores-two.vercel.app/)
+   <p>Acesse a aplicação clicando <a href="https://jogadores-two.vercel.app/">aqui</a>.</p>
