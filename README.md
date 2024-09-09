@@ -1,6 +1,6 @@
-##M Maiores Atletas - Imersão Dev com Google
+## Maiores Atletas - Imersão Dev com Google
 
-## Busca de Atletas: Encontre seu ídolo esportivo!
+ Busca de Atletas: Encontre seu ídolo esportivo!
 
 Uma aplicação web simples e intuitiva para buscar informações sobre atletas e esportes.
 
