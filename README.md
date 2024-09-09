@@ -18,6 +18,6 @@ Uma aplicação web simples e intuitiva para buscar informações sobre atletas 
 
 ### **Como usar:**
 
-1. **Clone o repositório:**
+1. **repositório:**
    ```bash
-   git clone [URL inválido removido]
+   CLick aqui para Acessar o Site [<a](https://jogadores-two.vercel.app/)
